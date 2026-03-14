@@ -1,4 +1,24 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV1",CCTV1
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV2",CCTV2
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv2
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV4",CCTV4
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv4
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV7",CCTV7
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv7
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV9",CCTV9
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv9
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV10",CCTV10
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv10
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV12",CCTV12
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv12
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV13",CCTV13
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv13
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV17",CCTV17
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv17
+#EXTINF:-1 group-title="央视新闻app" tvg-name="CCTV4K",CCTV4K
+javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv4k
 #EXTINF:-1 group-title="成都" tvg-name="成都新闻综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/成都新闻综合.png",成都新闻综合
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cdtv.js?url=https%3A%2F%2Fcdn1.cditv.cn%2Fcdtv1high%2FCDTV1High.flv%2Fplaylist.m3u8
 #EXTINF:-1 group-title="成都" tvg-name="成都经济资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/成都经济资讯.png",成都经济资讯
