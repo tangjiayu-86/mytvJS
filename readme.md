@@ -99,6 +99,7 @@ function main(item) {
 }
 返回JSON字符串，属性包括：
 url，字符串，为可播放的地址
+m3u8，字符串，为一个m3u8格式的源内容
 error，字符串，为错误信息，没有错误时不传值
 headers，字符串，为请求头，不需要指定时不传值。例如：
 function main(item) {
